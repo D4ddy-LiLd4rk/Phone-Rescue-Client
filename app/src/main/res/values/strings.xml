@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Phone Rescue - Client</string>
+    <string name="wifi_toggle">Toggle WiFi</string>
+    <string name="data_toggle">Toggle Data</string>
+    <string name="button_wifi">WiFi</string>
+    <string name="button_data">Data</string>
+    <string name="button_gps">GPS</string>
+    <string name="button_map">Map</string>
+    <string name="action_settings">Settings</string>
 </resources>
